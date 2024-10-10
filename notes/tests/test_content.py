@@ -16,3 +16,4 @@ class TestNotesList(TestCase):
     #     url = reverse('notes:list')
     #     response = self.client.get(url)
     #     self.assertEqual(response.status_code, 200)
+
